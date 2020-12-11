@@ -1,2 +1,3 @@
-# galettes
-La Recette de la galette bretonne
+# La galette bretonne
+
+La Recette de la galette bretonne pour tous !
