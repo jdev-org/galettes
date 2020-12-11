@@ -34,8 +34,9 @@ extensions = []
 
 
 # detect main doc file
-master_doc = 'index'
-source_suffix = '.rst'
+master_doc = 'index'
+
+source_suffix = '.rst'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
